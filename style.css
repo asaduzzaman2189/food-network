@@ -27,6 +27,7 @@ body{
 }
 .healthy-food-network-right img{
     height: 100%;
+    padding-right: 5%;
 }
 .paragraph-text{
     margin-bottom: 45px;
