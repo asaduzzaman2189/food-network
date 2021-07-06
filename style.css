@@ -1,3 +1,125 @@
-h1{
-    color: aliceblue;
+body{
+    margin: 0;
+}
+.flexibility{
+    display: flex;
+    margin-bottom: 115px;
+}
+.half-width{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.healthy-food-network{
+    margin-top: 60px;
+}
+.healthy-food-network-left h1{
+    font-size: 60px;
+    color: #3f3b3b;
+    font-family: 'Kanit', sans-serif;
+}
+.word-color{
+    color: #9cae36;
+}
+.healthy-food-network-left p{
+    color: gray;
+    font-size: 21px;
+    font-family: 'Kanit', sans-serif;
+}
+.healthy-food-network-right img{
+    height: 100%;
+}
+.paragraph-text{
+    margin-bottom: 45px;
+}
+.button-link{
+    text-decoration: none;
+    background-image: linear-gradient(#de9a5a, #c73f15);
+    padding: 20px 40px;
+    font-size: 24px;
+    border-radius: 25px;
+    color: honeydew;
+    font-family: 'Kanit', sans-serif;
+}
+#about-me{
+    padding-top: 160px;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-me-left img{
+    height: 100%;
+}
+.about-me-title{
+    font-size: 40px;
+    color: rgb(112 112 112);
+}
+.about-title-paragraph{
+    padding-right: 35%;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.my-recipies-heading-text h1{
+    font-size: 40px;
+    color: rgb(103 103 103);
+    text-align:center;
+    font-family: 'Kanit', sans-serif;
+}
+.my-recipies-heading-text p{
+    text-align: center;
+    font-size: 16px;
+    padding-left: 30%;
+    padding-right: 30%;
+    color: rgb(37 37 37);
+    margin-bottom: 30px;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.recipie-description{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.recipie-first-two-item{
+    margin-right: 10%;
+}
+.recipie-description-item{
+    width: 30%;
+    padding: 40px;
+    box-shadow: 10px 10px 35px grey;
+    border-radius: 25px;
+}
+.recipie-title-text h3{
+    font-family: 'Kanit', sans-serif;
+}
+.recipie-title-text p{
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.recipie-title-img img {
+    width: 100%;
+}
+.strong-receipe{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(24 25 31);
+}
+.strong-receipe p{
+    text-align:left;
+}
+footer{
+    text-align: center;
+    background-color: #180625;
+    padding: 15px;
+}
+.footer-text{
+    color: gray;
+    font-family: 'Kanit', sans-serif;
+}
+.footer-text span{
+    color: #eb3b3b;
+}
+footer p{
+    color: #f1efef;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Nanum Gothic', sans-serif;
 }
